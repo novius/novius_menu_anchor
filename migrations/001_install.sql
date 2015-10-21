@@ -1,0 +1,1 @@
+ALTER TABLE `nos_menu_item` ADD mitem__anchor VARCHAR(255) NULL DEFAULT NULL;
